@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T17:18:17+08:00",
+ "generated_at": "2026-09-01T17:20:07+08:00",
  "events": [
   {
    "type": "quota_gone",
@@ -8,7 +8,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-01T17:18:19+08:00"
+   "detected_at": "2026-09-01T17:20:16+08:00"
   },
   {
    "type": "quota_gone",
@@ -17,7 +17,16 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-01T17:18:19+08:00"
+   "detected_at": "2026-09-01T17:20:16+08:00"
+  },
+  {
+   "type": "quota_gone",
+   "office": "FTO",
+   "date": "2026-10-23",
+   "session": "R",
+   "from": "y",
+   "to": "r",
+   "detected_at": "2026-09-01T17:20:16+08:00"
   },
   {
    "type": "quota_gone",
@@ -26,7 +35,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-01T17:18:19+08:00"
+   "detected_at": "2026-09-01T17:20:16+08:00"
   },
   {
    "type": "quota_gone",
@@ -35,7 +44,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-01T17:18:19+08:00"
+   "detected_at": "2026-09-01T17:20:16+08:00"
   },
   {
    "type": "quota_open",
@@ -44,7 +53,7 @@
    "session": "R",
    "from": "r",
    "to": "g",
-   "detected_at": "2026-09-01T17:18:19+08:00"
+   "detected_at": "2026-09-01T17:20:16+08:00"
   },
   {
    "type": "quota_open",
@@ -53,7 +62,7 @@
    "session": "R",
    "from": "r",
    "to": "g",
-   "detected_at": "2026-09-01T17:18:19+08:00"
+   "detected_at": "2026-09-01T17:20:16+08:00"
   },
   {
    "type": "quota_open",
@@ -62,7 +71,7 @@
    "session": "R",
    "from": "r",
    "to": "g",
-   "detected_at": "2026-09-01T17:18:19+08:00"
+   "detected_at": "2026-09-01T17:20:16+08:00"
   },
   {
    "type": "quota_gone",
@@ -71,7 +80,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-01T17:18:19+08:00"
+   "detected_at": "2026-09-01T17:20:16+08:00"
   },
   {
    "type": "quota_gone",
@@ -80,7 +89,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-01T17:18:19+08:00"
+   "detected_at": "2026-09-01T17:20:16+08:00"
   }
  ]
 }
