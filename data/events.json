@@ -1,14 +1,32 @@
 {
- "generated_at": "2026-09-01T18:53:19+08:00",
+ "generated_at": "2026-09-01T19:03:14+08:00",
  "events": [
   {
    "type": "quota_gone",
-   "office": "RTK",
-   "date": "2026-10-14",
+   "office": "FTO",
+   "date": "2026-10-29",
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-01T18:53:28+08:00"
+   "detected_at": "2026-09-01T19:03:15+08:00"
+  },
+  {
+   "type": "quota_gone",
+   "office": "RKO",
+   "date": "2026-09-29",
+   "session": "R",
+   "from": "y",
+   "to": "r",
+   "detected_at": "2026-09-01T19:03:15+08:00"
+  },
+  {
+   "type": "quota_gone",
+   "office": "YLO",
+   "date": "2026-10-12",
+   "session": "R",
+   "from": "y",
+   "to": "r",
+   "detected_at": "2026-09-01T19:03:15+08:00"
   }
  ]
 }
