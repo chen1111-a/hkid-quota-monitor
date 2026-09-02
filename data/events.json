@@ -1,4 +1,23 @@
 {
- "generated_at": "2026-09-02T20:27:20+08:00",
- "events": []
+ "generated_at": "2026-09-02T20:36:16+08:00",
+ "events": [
+  {
+   "type": "quota_open",
+   "office": "FTO",
+   "date": "2026-10-05",
+   "session": "R",
+   "from": "r",
+   "to": "y",
+   "detected_at": "2026-09-02T20:36:27+08:00"
+  },
+  {
+   "type": "quota_gone",
+   "office": "RTK",
+   "date": "2026-12-19",
+   "session": "R",
+   "from": "y",
+   "to": "r",
+   "detected_at": "2026-09-02T20:36:27+08:00"
+  }
+ ]
 }
