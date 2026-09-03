@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T16:20:24+08:00",
+ "generated_at": "2026-09-03T16:21:25+08:00",
  "events": [
   {
    "type": "quota_gone",
@@ -8,7 +8,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -17,7 +17,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -26,7 +26,16 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
+  },
+  {
+   "type": "quota_gone",
+   "office": "FTO",
+   "date": "2026-10-12",
+   "session": "R",
+   "from": "y",
+   "to": "r",
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -35,7 +44,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -44,7 +53,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -53,7 +62,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -62,7 +71,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -71,7 +80,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -80,7 +89,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -89,7 +98,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -98,7 +107,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -107,7 +116,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -116,7 +125,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -125,7 +134,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -134,7 +143,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   },
   {
    "type": "quota_gone",
@@ -143,7 +152,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-03T16:21:06+08:00"
+   "detected_at": "2026-09-03T16:21:51+08:00"
   }
  ]
 }
