@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T11:02:23+08:00",
+ "generated_at": "2026-09-04T11:04:07+08:00",
  "events": [
   {
    "type": "quota_gone",
@@ -8,7 +8,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-04T11:02:32+08:00"
+   "detected_at": "2026-09-04T11:04:09+08:00"
   },
   {
    "type": "quota_gone",
@@ -17,7 +17,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-04T11:02:32+08:00"
+   "detected_at": "2026-09-04T11:04:09+08:00"
   },
   {
    "type": "quota_gone",
@@ -26,7 +26,16 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-04T11:02:32+08:00"
+   "detected_at": "2026-09-04T11:04:09+08:00"
+  },
+  {
+   "type": "quota_open",
+   "office": "RHK",
+   "date": "2026-09-18",
+   "session": "R",
+   "from": "r",
+   "to": "y",
+   "detected_at": "2026-09-04T11:04:09+08:00"
   },
   {
    "type": "quota_gone",
@@ -35,7 +44,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-04T11:02:32+08:00"
+   "detected_at": "2026-09-04T11:04:09+08:00"
   },
   {
    "type": "quota_gone",
@@ -44,7 +53,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-04T11:02:32+08:00"
+   "detected_at": "2026-09-04T11:04:09+08:00"
   },
   {
    "type": "quota_gone",
@@ -53,7 +62,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-04T11:02:32+08:00"
+   "detected_at": "2026-09-04T11:04:09+08:00"
   },
   {
    "type": "quota_gone",
@@ -62,7 +71,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-04T11:02:32+08:00"
+   "detected_at": "2026-09-04T11:04:09+08:00"
   },
   {
    "type": "quota_open",
@@ -71,7 +80,7 @@
    "session": "R",
    "from": "r",
    "to": "y",
-   "detected_at": "2026-09-04T11:02:32+08:00"
+   "detected_at": "2026-09-04T11:04:09+08:00"
   },
   {
    "type": "quota_open",
@@ -80,7 +89,7 @@
    "session": "R",
    "from": "r",
    "to": "y",
-   "detected_at": "2026-09-04T11:02:32+08:00"
+   "detected_at": "2026-09-04T11:04:09+08:00"
   },
   {
    "type": "quota_gone",
@@ -89,7 +98,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-04T11:02:32+08:00"
+   "detected_at": "2026-09-04T11:04:09+08:00"
   },
   {
    "type": "quota_gone",
@@ -98,7 +107,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-04T11:02:32+08:00"
+   "detected_at": "2026-09-04T11:04:09+08:00"
   },
   {
    "type": "quota_gone",
@@ -107,7 +116,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-04T11:02:32+08:00"
+   "detected_at": "2026-09-04T11:04:09+08:00"
   }
  ]
 }
