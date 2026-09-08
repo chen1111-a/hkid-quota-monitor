@@ -1,4 +1,50 @@
 {
- "generated_at": "2026-09-09T00:10:24+08:00",
- "events": []
+ "generated_at": "2026-09-09T00:15:29+08:00",
+ "events": [
+  {
+   "type": "new_date",
+   "office": "FTO",
+   "date": "2027-01-06",
+   "session": "R",
+   "from": null,
+   "to": "g",
+   "detected_at": "2026-09-09T00:15:30+08:00"
+  },
+  {
+   "type": "new_date",
+   "office": "RHK",
+   "date": "2027-01-06",
+   "session": "R",
+   "from": null,
+   "to": "g",
+   "detected_at": "2026-09-09T00:15:30+08:00"
+  },
+  {
+   "type": "new_date",
+   "office": "RTK",
+   "date": "2027-01-06",
+   "session": "R",
+   "from": null,
+   "to": "g",
+   "detected_at": "2026-09-09T00:15:30+08:00"
+  },
+  {
+   "type": "new_date",
+   "office": "TMO",
+   "date": "2027-01-06",
+   "session": "R",
+   "from": null,
+   "to": "g",
+   "detected_at": "2026-09-09T00:15:30+08:00"
+  },
+  {
+   "type": "new_date",
+   "office": "YLO",
+   "date": "2027-01-06",
+   "session": "R",
+   "from": null,
+   "to": "g",
+   "detected_at": "2026-09-09T00:15:30+08:00"
+  }
+ ]
 }
