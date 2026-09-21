@@ -10370,3 +10370,7 @@
 {"type": "quota_open", "office": "FTO", "date": "2026-11-10", "session": "R", "from": "r", "to": "y", "detected_at": "2026-09-21T17:51:16+08:00", "src": "09/21/2026 17:50:33"}
 {"type": "quota_open", "office": "FTO", "date": "2026-11-11", "session": "R", "from": "r", "to": "y", "detected_at": "2026-09-21T17:51:16+08:00", "src": "09/21/2026 17:50:33"}
 {"type": "quota_open", "office": "FTO", "date": "2026-11-13", "session": "R", "from": "r", "to": "y", "detected_at": "2026-09-21T17:52:17+08:00", "src": "09/21/2026 17:52:00"}
+{"type": "quota_open", "office": "FTO", "date": "2026-10-31", "session": "R", "from": "r", "to": "y", "detected_at": "2026-09-21T18:06:16+08:00", "src": "09/21/2026 18:05:35"}
+{"type": "quota_open", "office": "FTO", "date": "2026-11-07", "session": "R", "from": "r", "to": "y", "detected_at": "2026-09-21T18:06:16+08:00", "src": "09/21/2026 18:05:35"}
+{"type": "quota_open", "office": "FTO", "date": "2026-11-14", "session": "R", "from": "r", "to": "y", "detected_at": "2026-09-21T18:06:16+08:00", "src": "09/21/2026 18:05:35"}
+{"type": "quota_open", "office": "FTO", "date": "2026-11-28", "session": "R", "from": "r", "to": "y", "detected_at": "2026-09-21T18:06:16+08:00", "src": "09/21/2026 18:05:35"}
