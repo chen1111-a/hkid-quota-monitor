@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T19:31:11+08:00",
+ "generated_at": "2026-09-22T19:31:37+08:00",
  "events": [
   {
    "type": "quota_gone",
@@ -8,7 +8,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-22T19:31:16+08:00"
+   "detected_at": "2026-09-22T19:31:38+08:00"
   },
   {
    "type": "quota_gone",
@@ -17,7 +17,7 @@
    "session": "R",
    "from": "y",
    "to": "r",
-   "detected_at": "2026-09-22T19:31:16+08:00"
+   "detected_at": "2026-09-22T19:31:38+08:00"
   }
  ]
 }
