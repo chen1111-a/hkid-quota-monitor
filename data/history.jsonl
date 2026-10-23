@@ -15960,3 +15960,9 @@
 {"type": "quota_open", "office": "YLO", "date": "2026-11-17", "session": "R", "from": "r", "to": "y", "detected_at": "2026-10-23T20:36:16+08:00", "src": "10/23/2026 20:36:14"}
 {"type": "quota_open", "office": "YLO", "date": "2026-11-24", "session": "R", "from": "r", "to": "y", "detected_at": "2026-10-23T20:36:16+08:00", "src": "10/23/2026 20:36:14"}
 {"type": "quota_open", "office": "YLO", "date": "2026-11-26", "session": "R", "from": "r", "to": "y", "detected_at": "2026-10-23T20:36:16+08:00", "src": "10/23/2026 20:36:14"}
+{"type": "new_date", "office": "FTO", "date": "2027-02-20", "session": "R", "from": null, "to": "g", "detected_at": "2026-10-24T00:15:28+08:00", "src": "10/24/2026 00:15:05"}
+{"type": "new_date", "office": "RHK", "date": "2027-02-20", "session": "R", "from": null, "to": "g", "detected_at": "2026-10-24T00:15:28+08:00", "src": "10/24/2026 00:15:05"}
+{"type": "new_date", "office": "RKO", "date": "2027-02-20", "session": "R", "from": null, "to": "g", "detected_at": "2026-10-24T00:15:28+08:00", "src": "10/24/2026 00:15:05"}
+{"type": "new_date", "office": "RTK", "date": "2027-02-20", "session": "R", "from": null, "to": "g", "detected_at": "2026-10-24T00:15:28+08:00", "src": "10/24/2026 00:15:05"}
+{"type": "new_date", "office": "TMO", "date": "2027-02-20", "session": "R", "from": null, "to": "g", "detected_at": "2026-10-24T00:15:28+08:00", "src": "10/24/2026 00:15:05"}
+{"type": "new_date", "office": "YLO", "date": "2027-02-20", "session": "R", "from": null, "to": "g", "detected_at": "2026-10-24T00:15:28+08:00", "src": "10/24/2026 00:15:05"}
