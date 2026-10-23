@@ -15932,3 +15932,8 @@
 {"type": "quota_open", "office": "RKO", "date": "2026-11-14", "session": "R", "from": "r", "to": "y", "detected_at": "2026-10-23T14:04:16+08:00", "src": "10/23/2026 14:03:27"}
 {"type": "quota_open", "office": "RKO", "date": "2026-11-24", "session": "R", "from": "r", "to": "y", "detected_at": "2026-10-23T14:04:16+08:00", "src": "10/23/2026 14:03:27"}
 {"type": "quota_open", "office": "RTK", "date": "2026-11-19", "session": "R", "from": "r", "to": "y", "detected_at": "2026-10-23T14:04:16+08:00", "src": "10/23/2026 14:03:27"}
+{"type": "quota_open", "office": "FTO", "date": "2026-11-05", "session": "R", "from": "r", "to": "y", "detected_at": "2026-10-23T14:34:17+08:00", "src": "10/23/2026 14:33:29"}
+{"type": "quota_open", "office": "FTO", "date": "2026-12-02", "session": "R", "from": "r", "to": "y", "detected_at": "2026-10-23T14:34:17+08:00", "src": "10/23/2026 14:33:29"}
+{"type": "quota_open", "office": "RKO", "date": "2026-12-04", "session": "R", "from": "r", "to": "y", "detected_at": "2026-10-23T14:34:17+08:00", "src": "10/23/2026 14:33:29"}
+{"type": "quota_open", "office": "RTK", "date": "2026-11-16", "session": "R", "from": "r", "to": "y", "detected_at": "2026-10-23T14:34:17+08:00", "src": "10/23/2026 14:33:29"}
+{"type": "quota_open", "office": "TMO", "date": "2026-11-10", "session": "R", "from": "r", "to": "y", "detected_at": "2026-10-23T14:34:17+08:00", "src": "10/23/2026 14:33:29"}
