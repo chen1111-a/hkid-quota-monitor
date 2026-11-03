@@ -1,4 +1,14 @@
 {
- "generated_at": "2026-11-03T16:39:17+08:00",
- "events": []
+ "generated_at": "2026-11-03T16:49:15+08:00",
+ "events": [
+  {
+   "type": "quota_open",
+   "office": "FTO",
+   "date": "2026-11-04",
+   "session": "R",
+   "from": "r",
+   "to": "y",
+   "detected_at": "2026-11-03T16:49:16+08:00"
+  }
+ ]
 }
