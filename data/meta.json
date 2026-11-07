@@ -1,8 +1,8 @@
 {
- "last_check": "2026-11-07T09:04:17+08:00",
- "source_update_time": "11/07/2026 09:02:48",
- "open_cells": 404,
- "events_this_run": 0,
- "notify_worthy": 0,
+ "last_check": "2026-11-07T09:18:22+08:00",
+ "source_update_time": "11/07/2026 09:17:56",
+ "open_cells": 455,
+ "events_this_run": 51,
+ "notify_worthy": 51,
  "stale_node_skipped": false
 }
