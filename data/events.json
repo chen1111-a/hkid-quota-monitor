@@ -1,4 +1,14 @@
 {
- "generated_at": "2026-11-14T19:11:14+08:00",
- "events": []
+ "generated_at": "2026-11-14T19:20:26+08:00",
+ "events": [
+  {
+   "type": "quota_gone",
+   "office": "YLO",
+   "date": "2026-12-10",
+   "session": "R",
+   "from": "y",
+   "to": "r",
+   "detected_at": "2026-11-14T19:20:35+08:00"
+  }
+ ]
 }
