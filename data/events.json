@@ -1,14 +1,4 @@
 {
- "generated_at": "2026-11-20T20:09:19+08:00",
- "events": [
-  {
-   "type": "quota_gone",
-   "office": "TMO",
-   "date": "2026-12-24",
-   "session": "R",
-   "from": "y",
-   "to": "r",
-   "detected_at": "2026-11-20T20:09:29+08:00"
-  }
- ]
+ "generated_at": "2026-11-20T20:30:42+08:00",
+ "events": []
 }
