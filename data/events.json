@@ -1,23 +1,4 @@
 {
- "generated_at": "2026-11-22T16:50:27+08:00",
- "events": [
-  {
-   "type": "quota_gone",
-   "office": "RTK",
-   "date": "2026-12-03",
-   "session": "R",
-   "from": "y",
-   "to": "r",
-   "detected_at": "2026-11-22T16:50:29+08:00"
-  },
-  {
-   "type": "quota_gone",
-   "office": "RTK",
-   "date": "2026-12-04",
-   "session": "R",
-   "from": "y",
-   "to": "r",
-   "detected_at": "2026-11-22T16:50:29+08:00"
-  }
- ]
+ "generated_at": "2026-11-22T17:10:28+08:00",
+ "events": []
 }
