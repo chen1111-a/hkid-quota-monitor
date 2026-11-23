@@ -19563,3 +19563,12 @@
 {"type": "quota_open", "office": "RKO", "date": "2026-12-04", "session": "R", "from": "r", "to": "y", "detected_at": "2026-11-23T19:21:26+08:00", "src": "11/23/2026 19:21:04"}
 {"type": "quota_open", "office": "RKO", "date": "2026-12-07", "session": "R", "from": "r", "to": "y", "detected_at": "2026-11-23T19:21:26+08:00", "src": "11/23/2026 19:21:04"}
 {"type": "quota_open", "office": "RKO", "date": "2026-12-10", "session": "R", "from": "r", "to": "y", "detected_at": "2026-11-23T19:21:26+08:00", "src": "11/23/2026 19:21:04"}
+{"type": "quota_open", "office": "FTO", "date": "2026-12-17", "session": "R", "from": "r", "to": "y", "detected_at": "2026-11-23T20:37:18+08:00", "src": "11/23/2026 20:36:29"}
+{"type": "quota_open", "office": "FTO", "date": "2026-12-24", "session": "R", "from": "r", "to": "y", "detected_at": "2026-11-23T20:37:18+08:00", "src": "11/23/2026 20:36:29"}
+{"type": "quota_open", "office": "RKO", "date": "2026-11-24", "session": "R", "from": "r", "to": "y", "detected_at": "2026-11-23T20:37:18+08:00", "src": "11/23/2026 20:36:29"}
+{"type": "quota_open", "office": "RKO", "date": "2026-12-14", "session": "R", "from": "r", "to": "y", "detected_at": "2026-11-23T20:37:18+08:00", "src": "11/23/2026 20:36:29"}
+{"type": "quota_open", "office": "RTK", "date": "2026-11-26", "session": "R", "from": "r", "to": "y", "detected_at": "2026-11-23T20:37:18+08:00", "src": "11/23/2026 20:36:29"}
+{"type": "quota_open", "office": "RTK", "date": "2026-12-01", "session": "R", "from": "r", "to": "y", "detected_at": "2026-11-23T20:37:18+08:00", "src": "11/23/2026 20:36:29"}
+{"type": "quota_open", "office": "RTK", "date": "2026-12-03", "session": "R", "from": "r", "to": "y", "detected_at": "2026-11-23T20:37:18+08:00", "src": "11/23/2026 20:36:29"}
+{"type": "quota_open", "office": "RTK", "date": "2026-12-14", "session": "R", "from": "r", "to": "y", "detected_at": "2026-11-23T20:37:18+08:00", "src": "11/23/2026 20:36:29"}
+{"type": "quota_open", "office": "YLO", "date": "2026-12-10", "session": "R", "from": "r", "to": "y", "detected_at": "2026-11-23T20:37:18+08:00", "src": "11/23/2026 20:36:29"}
